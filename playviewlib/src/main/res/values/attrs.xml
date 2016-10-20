@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="haoty">
+        <attr name="haotyBackground" format="color"/>
+        <attr name="haotyColColor" format="color"/>
+    </declare-styleable>
+</resources>
