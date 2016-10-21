@@ -26,3 +26,7 @@
         playView.startViewAnim();
     }
 ```
+
+## 写作思路
+
+详情请参见我的博客： [天意](http://haotianyi.win/)
