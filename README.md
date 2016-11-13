@@ -29,4 +29,6 @@
 
 ## 写作思路
 
-详情请参见我的博客： [天意](http://haotianyi.win/)
+作者官方博客：[天意博文](http://www.haotianyi.win/)
+
+详情请参见我的博客： [天意博文](http://www.haotianyi.win/2016/10/%E8%87%AA%E5%AE%9A%E4%B9%89view%E5%92%8C%E5%8A%A8%E7%94%BB_playview/)
